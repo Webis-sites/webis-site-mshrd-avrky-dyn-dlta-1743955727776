@@ -34,6 +34,8 @@
   --font-fashion: 'Heebo', 'Assistant', sans-serif;
   --pattern-size: 20px;
   --pattern-dot-size: 2px;
+
+  --scroll-button-transition: 0.3s;
 }
 
 html {
