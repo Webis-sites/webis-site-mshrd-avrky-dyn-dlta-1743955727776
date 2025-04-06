@@ -1,8 +1,66 @@
 {
-  "projectName": "משרד-עורכי-דין-דלתא-5727",
-  "businessName": "משרד עורכי דין דלתא",
-  "created": "2025-04-06T16:08:47.836Z",
-  "status": "initialized",
-  "progress": 0,
-  "components": []
+  "timestamp": "2025-04-06T16:09:43.143Z",
+  "status": {
+    "totalComponents": 9,
+    "completedComponents": 0,
+    "failedComponents": 0,
+    "progress": 0
+  },
+  "components": [
+    {
+      "name": "Header",
+      "type": "header",
+      "status": "pending",
+      "description": "A responsive header with the law firm's logo and navigation menu"
+    },
+    {
+      "name": "HeroSection",
+      "type": "hero",
+      "status": "pending",
+      "description": "Main hero section showcasing the law firm's expertise in the fashion industry"
+    },
+    {
+      "name": "AboutSection",
+      "type": "about",
+      "status": "pending",
+      "description": "Section describing the law firm's background, expertise, and experience in the fashion industry"
+    },
+    {
+      "name": "ServicesSection",
+      "type": "services",
+      "status": "pending",
+      "description": "Section showcasing the various legal services offered by the firm specifically for the fashion industry"
+    },
+    {
+      "name": "PortfolioSection",
+      "type": "portfolio",
+      "status": "pending",
+      "description": "Gallery showcasing the law firm's past work and successful cases in the fashion industry"
+    },
+    {
+      "name": "FAQSection",
+      "type": "faq",
+      "status": "pending",
+      "description": "Frequently asked questions about the law firm's services in the fashion industry"
+    },
+    {
+      "name": "ContactSection",
+      "type": "contact",
+      "status": "pending",
+      "description": "Contact form and information for potential clients to reach the law firm"
+    },
+    {
+      "name": "Footer",
+      "type": "footer",
+      "status": "pending",
+      "description": "Footer with copyright information, social media links, and additional navigation"
+    },
+    {
+      "name": "ScrollToTop",
+      "type": "utility",
+      "status": "pending",
+      "description": "Button that appears when scrolling down to allow users to quickly return to the top of the page"
+    }
+  ],
+  "repoName": "webis-site-mshrd-avrky-dyn-dlta-1743955727776"
 }
