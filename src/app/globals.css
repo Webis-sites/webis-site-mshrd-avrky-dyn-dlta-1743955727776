@@ -15,6 +15,11 @@
   --text-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
   --animation-duration: 0.6s;
   --animation-easing: cubic-bezier(0.16, 1, 0.3, 1);
+
+  --font-heebo: 'Heebo', sans-serif;
+  --font-playfair: 'Playfair Display', serif;
+  --transition-standard: 0.3s ease-in-out;
+  --shadow-card: 0 10px 30px rgba(0, 0, 0, 0.1);
 }
 
 html {
