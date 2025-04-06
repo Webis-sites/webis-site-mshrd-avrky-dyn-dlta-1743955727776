@@ -30,6 +30,10 @@
 
   --form-animation-duration: 0.3s;
   --input-focus-scale: 1.01;
+
+  --font-fashion: 'Heebo', 'Assistant', sans-serif;
+  --pattern-size: 20px;
+  --pattern-dot-size: 2px;
 }
 
 html {
