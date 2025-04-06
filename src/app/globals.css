@@ -20,6 +20,9 @@
   --font-playfair: 'Playfair Display', serif;
   --transition-standard: 0.3s ease-in-out;
   --shadow-card: 0 10px 30px rgba(0, 0, 0, 0.1);
+
+  --font-display: 'Heebo', 'Rubik', sans-serif;
+  --card-transition: 0.3s ease-in-out;
 }
 
 html {
