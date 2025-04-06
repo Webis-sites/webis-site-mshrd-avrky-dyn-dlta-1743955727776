@@ -27,6 +27,9 @@
   --font-portfolio: 'Heebo', 'Rubik', sans-serif;
   --card-animation-duration: 0.3s;
   --hover-lift: -10px;
+
+  --form-animation-duration: 0.3s;
+  --input-focus-scale: 1.01;
 }
 
 html {
