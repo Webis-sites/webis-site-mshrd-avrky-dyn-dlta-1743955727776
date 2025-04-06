@@ -23,6 +23,10 @@
 
   --font-display: 'Heebo', 'Rubik', sans-serif;
   --card-transition: 0.3s ease-in-out;
+
+  --font-portfolio: 'Heebo', 'Rubik', sans-serif;
+  --card-animation-duration: 0.3s;
+  --hover-lift: -10px;
 }
 
 html {
